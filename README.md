@@ -1,4 +1,4 @@
-## Front Tricky
+## Admin Tricky
 
 Team : 
 - David
