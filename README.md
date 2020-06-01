@@ -1,11 +1,10 @@
-## Front Nrgybox
+## Front Tricky
 
 Team : 
-- Chloé
-- Michaël
-- Johanna
-- Enzo
-- Benoit
+- David
+- François
+- Thomas L.
+- Thomas B.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
